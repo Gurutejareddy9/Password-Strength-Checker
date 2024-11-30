@@ -14,7 +14,7 @@ A simple Python script to evaluate the strength of a given password.
 
 ## Usage
 
-1. Clone this repository: `git clone https://github.com/your-username/password-strength-checker.git`
+1. Clone this repository: `git clone https://github.com/Gurutejareddy9/password-strength-checker.git`
 2. Run the script: `python password_checker.py`
 3. Enter a password when prompted to receive a strength evaluation
 
